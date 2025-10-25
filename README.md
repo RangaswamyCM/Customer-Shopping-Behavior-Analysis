@@ -88,5 +88,12 @@ Built an **interactive Power BI dashboard** to visualize:
 **Recommendations:**
 - Promote loyalty programs.  
 - Refine discount strategies.  
-- Target top-performing age and location segments.  
+- Target top-performing age and location segments.
+
+👤 Author
+Rangaswamy C M
+B.Tech in Electronics and Communication Engineering | Data Science Enthusiast
+📍 Atria Institute of Technology
+Gmail: rangaswamycm2002@gmail.com
+LinkedIn: https://www.linkedin.com/in/rangaswamy-c-m-341268254/
 
